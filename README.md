@@ -1,1 +1,1 @@
-<img width="1024" height="6522" alt="fullscreenscreenshoot" src="https://github.com/user-attachments/assets/d54eb224-403a-4368-8343-77ca2567ecb8" />
+<img width="1125" height="3408" alt="127 0 0 1_5500_docs_project-showcase-website_index html" src="https://github.com/user-attachments/assets/ea6905b8-b87f-462d-997c-600c195c53d0" />
